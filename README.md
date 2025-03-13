@@ -41,8 +41,6 @@ The MovieLens dataset is used for this project, which provides a collection of m
 - **Diverse and Serendipitous Recommendations:** Prioritize novelty and diversity in suggestions.
 
 
-
-
 ## Do follow for more and Refer 
 For projects : [Github](https://github.com/sarah131/)
 
