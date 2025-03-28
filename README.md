@@ -38,6 +38,9 @@ The MovieLens dataset is used for this project, which provides a collection of m
 ### 🏠 **Home Page**  
 ![Home Page](ss.png)  
 
+### **Recommendation Page**  
+![Recommendation Page](ss1.png)  
+
 ## Future Improvements 🚀
 - **Hybrid Recommendation System:** Combine collaborative filtering with content-based methods.
 - **Parameter Tuning:** Optimize hyperparameters like the number of neighbors and similarity metrics.
