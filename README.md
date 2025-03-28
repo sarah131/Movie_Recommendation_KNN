@@ -34,6 +34,10 @@ The MovieLens dataset is used for this project, which provides a collection of m
 - **Recall:** Proportion of relevant items that are recommended.
 - **Coverage:** Proportion of total items the system can recommend.
 
+## Also integrated into a website design
+### 🏠 **Home Page**  
+![Home Page](home.png)  
+
 ## Future Improvements 🚀
 - **Hybrid Recommendation System:** Combine collaborative filtering with content-based methods.
 - **Parameter Tuning:** Optimize hyperparameters like the number of neighbors and similarity metrics.
