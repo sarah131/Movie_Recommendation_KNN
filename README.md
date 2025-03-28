@@ -36,7 +36,7 @@ The MovieLens dataset is used for this project, which provides a collection of m
 
 ## Also integrated into a website design
 ### 🏠 **Home Page**  
-![Home Page](home.png)  
+![Home Page](ss.png)  
 
 ## Future Improvements 🚀
 - **Hybrid Recommendation System:** Combine collaborative filtering with content-based methods.
