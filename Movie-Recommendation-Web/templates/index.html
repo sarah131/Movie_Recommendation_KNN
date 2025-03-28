@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Movie Recommendation System</h1>
+        <input type="number" id="userIndex" placeholder="Enter User Index">
+        <button onclick="getRecommendations()">Get Recommendations</button>
+        <h2>Recommended Movies:</h2>
+        <ul id="recommendationsList"></ul>
+        <p id="errorMessage" style="color: red;"></p>
+        <button onclick="window.location.href='/'" class="back-button" style="background-color: red; color: white; border: none; padding: 10px 20px; margin-top: 20px; cursor: pointer;">Back to Home</button>
+    </div>
+    <footer style="text-align: center; color: white; position: fixed; width: 100%; bottom: 0; background-color: rgba(0, 0, 0, 0.8); padding: 10px 0;">Made by Sarah Rachel</footer>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
